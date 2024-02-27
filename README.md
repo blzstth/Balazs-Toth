@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a university student, and I am looking for a job that i can do beside school.<br>I am familiar with C#, C, HTML, CSS, JavScript, and i am currently learning python
+My name is Balazs Toth, I am a university student in hungary at Eötvös Lóránd University. My goal is to get a degree here, and to get a job in the field. Alongside school I am taking a DevOps course on Udemy too.
 
 
 # 💻 Tech Stack:
