@@ -1,5 +1,6 @@
 # 💫 About Me:
 My name is Balazs Toth, I am a university student in hungary at Eötvös Lóránd University. My goal is to get a degree here, and to get a job in the field. Alongside school I am taking a DevOps course on Udemy too.
+My current hobby project is a web software that is used to help people who work in catering. The software offers a simple billing procedure, is connected to a local database and has a graphical interface, although it is not finished yet. 
 
 
 # 💻 Tech Stack:
